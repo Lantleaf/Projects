@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML_Grammar</title>
+</head>
+<body>
+    <h1>标题</h1>                       <!--标题，1最重要，6最不重要-->
+    <hr>                               <!--生成水平线分割内容-->
+    <p>不分行段落</p>                    <!--定义段落-->
+    <p><br>分<br>行<br>段落</p>          <!--实现段落内换行-->
+    <b>加粗文本1</b>                     <!--定义加粗文本-->
+    <strong>加粗文本2</strong>                                       <br><br>
+    <i>斜体文本1</i>                     <!--定义斜体文本-->
+    <em>斜体文本2</em>                                               <br><br>
+    <sub>下标字</sub>                    <!--定义下标字-->
+    <sup>上标字</sup>                    <!--定义上标字-->             <br><br>
+    <ins>插入字</ins>                    <!--定义插入字-->
+    <del>删除字</del>                    <!--定义删除字-->             <br><br>
+    <code>计算机代码</code>               <!--定义计算机代码-->          <br><br>
+    <dfn>项目</dfn>                      <!--定义项目-->               <br><br>
+    <samp>计算机样本</samp>               <!--定义计算机样本-->          <br><br>
+    <kbd>键盘输入</kbd>                   <!--定义键盘输入-->           <br><br>
+    <var>变量</var>                      <!--定义变量-->               <br><br>
+</body>
+</html>
